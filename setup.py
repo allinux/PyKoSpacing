@@ -16,7 +16,7 @@ setup(name='pykospacing',
 
       install_requires=[
           'tensorflow == 2.16.1',
-          'h5py == 3.8.0',
+          'h5py >= 3.10.0',
           'argparse >= 1.4.0',
       ],
 
